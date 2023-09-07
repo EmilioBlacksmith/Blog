@@ -9,19 +9,19 @@
     <lastBuildDate>Wed, 06 Sep 2023 22:37:07 -0600</lastBuildDate><atom:link href="https://emilioblacksmith.github.io/Blog/tags/first/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World!</title>
-      <link>https://emilioblacksmith.github.io/Blog/posts/01_hello_world/</link>
+      <link>https://emilioblacksmith.github.io/Blog/posts/hello_world/</link>
       <pubDate>Wed, 06 Sep 2023 17:44:43 -0600</pubDate>
       
-      <guid>https://emilioblacksmith.github.io/Blog/posts/01_hello_world/</guid>
+      <guid>https://emilioblacksmith.github.io/Blog/posts/hello_world/</guid>
       <description>Testing out my first blog post, this website was developed using HUGO.</description>
     </item>
     
     <item>
       <title>The Real Hello, World!</title>
-      <link>https://emilioblacksmith.github.io/Blog/posts/02_real_hello_world/</link>
+      <link>https://emilioblacksmith.github.io/Blog/posts/real_hello_world/</link>
       <pubDate>Wed, 06 Sep 2023 22:37:07 -0600</pubDate>
       
-      <guid>https://emilioblacksmith.github.io/Blog/posts/02_real_hello_world/</guid>
+      <guid>https://emilioblacksmith.github.io/Blog/posts/real_hello_world/</guid>
       <description>Welcome to my Blog 🤠 Hello, howdy, how you doing, my name is Emilio Blacksmith (real name Emilio Herrera, BUT, Herrera in english is Blacksmith).
 I&amp;rsquo;m a Developer, I&amp;rsquo;ve been doing Game Development since 2017. But wasn&amp;rsquo;t till 2021 where I started a youtube channel focused on game development tutorials with tools like the unity game engine, then in 2022 I started to lean towards doing more entertainment content based on development.</description>
     </item>

@@ -7,7 +7,7 @@ type: post
 showTableOfContents: true
 ---
 
-![banner](/banner-slice.jpg)
+![banner](./banner-slice.jpg)
 
 # Welcome to my Blog :cowboy_hat_face:
 ---

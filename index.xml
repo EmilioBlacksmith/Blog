@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>EmilioBlacksmith Blog</title>
+    <title>Emilio Blacksmith Blog</title>
     <link>https://emilioblacksmith.github.io/Blog/</link>
-    <description>Recent content on EmilioBlacksmith Blog</description>
+    <description>Recent content on Emilio Blacksmith Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 06 Sep 2023 22:37:07 -0600</lastBuildDate><atom:link href="https://emilioblacksmith.github.io/Blog/index.xml" rel="self" type="application/rss+xml" />
@@ -23,7 +23,7 @@
       
       <guid>https://emilioblacksmith.github.io/Blog/posts/02_real_hello_world/</guid>
       <description>Welcome to my Blog 🤠 Hello, howdy, how you doing, my name is Emilio Blacksmith (real name Emilio Herrera, BUT, Herrera in english is Blacksmith).
-I&amp;rsquo;m a Developer, I&amp;rsquo;ve been doing Game Development since 2017. But wasn&amp;rsquo;t till 2021 where I started a focused on game development tutorials with tools like the unity game engine, then in 2022 I started to lean towards doing more entertainment content based on development.</description>
+I&amp;rsquo;m a Developer, I&amp;rsquo;ve been doing Game Development since 2017. But wasn&amp;rsquo;t till 2021 where I started a youtube channel focused on game development tutorials with tools like the unity game engine, then in 2022 I started to lean towards doing more entertainment content based on development.</description>
     </item>
     
   </channel>

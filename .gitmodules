@@ -1,0 +1,4 @@
+[submodule "emilioblacksmith_blog/public"]
+	path = emilioblacksmith_blog/public
+	url = git@github.com:EmilioBlacksmith/Blog.git
+	branch = main

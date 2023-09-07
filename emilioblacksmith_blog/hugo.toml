@@ -2,7 +2,7 @@ baseURL = 'https://emilioblacksmith.github.io/Blog/'
 defaultContentLanguage = "en"
 languageCode = "en"
 
-title = "EmilioBlacksmith Blog"
+title = "Emilio Blacksmith Blog"
 
 theme = "gokarna"
 
@@ -15,7 +15,8 @@ pygmentsStyle = "monokai"
 [params]
   footer = "EmilioBlacksmith"
   description = "Howdy 🤠, I make development fun to watch (sometimes...)"
-  avatarURL = "/images/profile.webp"
+  showPostsOnHomePage = "recent"
+  avatarURL = "images/profile.webp"
   AvatarAltText = "avatar"
   avatarSize = "size-xl"
   accentColor = "#0080ff"
@@ -39,15 +40,7 @@ pygmentsStyle = "monokai"
       });
     </script>
   """
-  socialIcons = [
-    {name = "youtube", url = "https://www.youtube.com/emilioblacksmith"},
-    {name = "twitter", url = "https://twitter.com/EmilioBlacksmit"},
-    {name = "linkedin", url = "https://www.linkedin.com/in/emilioblacksmith/"},
-    {name = "instagram", url = "https://www.instagram.com/emilioblacksmith/"},
-    {name = "email", url = "mailto:emilioblacksmithlush@gmail.com"}
-  ]
   metaKeywords = ["blog", "emilioblacksmith", "gamedev", "webdev","softdev"]
-  showPostsOnHomePage = "recent"
 
 [menu]
   [[menu.main]]
@@ -57,22 +50,46 @@ pygmentsStyle = "monokai"
     weight = 1
 
   [[menu.main]]
+    name = "Website"
+    pre = "<span data-feather='globe'></span>"
+    url = "https://emilioblacksmith.github.io/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Youtube"
+    pre = "<span data-feather='youtube'></span>"
+    url = "https://www.youtube.com/@EmilioBlacksmith"
+    weight = 3
+
+  [[menu.main]]
     name = "Posts"
     pre = "<span data-feather='book'></span>"
     url = "./posts/"
-    weight = 2
+    weight = 4
 
   [[menu.main]]
     identifier = "github"
     pre = "<span data-feather='github'></span>"
     url = "https://github.com/EmilioBlacksmith"
-    weight = 3
+    weight = 5
+
+  [[menu.main]]
+    identifier = "linkedin"
+    pre = "<span data-feather='linkedin'></span>"
+    url = "https://www.linkedin.com/in/emilioblacksmith/"
+    weight = 6
+  
+  [[menu.main]]
+    identifier = "instagram"
+    pre = "<span data-feather='instagram'></span>"
+    url = "https://www.instagram.com/emilioblacksmith/"
+    weight = 7
   
   [[menu.main]]
     identifier = "rss"
     pre = "<span data-feather='rss'></span>"
     url = "/index.xml"
-    weight = 4
+    weight = 8
 
 
 [markup]

@@ -7,14 +7,14 @@ type: post
 showTableOfContents: true
 ---
 
-![banner](images/posts/banner-slice.jpg)
+![banner](/banner-slice.jpg)
 
 # Welcome to my Blog :cowboy_hat_face:
 ---
 
 Hello, howdy, how you doing, my name is Emilio Blacksmith (real name Emilio Herrera, BUT, Herrera in english is Blacksmith).
 
-I'm a Developer, I've been doing Game Development since 2017. But wasn't till 2021 where I started a ![youtube channel](https://www.youtube.com/@EmilioBlacksmith) focused on game development tutorials with tools like the unity game engine, then in 2022 I started to lean towards doing more entertainment content based on development. Currently I'm in a growing stage of wanting to do this full time, but at the same time wan't to learn new tools, not only in game development, but a bit of everything.
+I'm a Developer, I've been doing Game Development since 2017. But wasn't till 2021 where I started a [youtube channel](https://www.youtube.com/@EmilioBlacksmith) focused on game development tutorials with tools like the unity game engine, then in 2022 I started to lean towards doing more entertainment content based on development. Currently I'm in a growing stage of wanting to do this full time, but at the same time wan't to learn new tools, not only in game development, but a bit of everything.
 
 I want to be the best at my craft of being a Youtube Developer. I don't truly know if there's a niche out there in the field of everything software development, not only game dev, but also web dev, desktop application development, etc.
 
@@ -50,11 +50,3 @@ This game is still really early in the making, literally I've done only a protot
 ## Goodbye Space Cowboy
 
 THAT'S IT, thank you so much for reading this random person's personal dev blog post. It has been a pleasure, and I'm excited for what's coming, stay tuned...
-
-<a href="https://wakatime.com/@a700d4d5-c428-4d7b-8370-22df5995ee70"><img src="https://wakatime.com/badge/user/a700d4d5-c428-4d7b-8370-22df5995ee70.svg" alt="Total time coded since Nov 3 2022" /></a>
-<a href="https://github.com/EmilioBlacksmith"><img alt="Github" src="https://img.shields.io/github/followers/EmilioBlacksmith.svg?style=social&label=Follow&maxAge=2592000"/></a>
-<a href="https://twitter.com/intent/follow?screen_name=EmilioBlacksmit"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/EmilioBlacksmit?label=EmilioBlacksmith"/></a>
-<a href="https://www.linkedin.com/in/emilioblacksmith/"><img alt="Linkedin Follow" src="https://img.shields.io/badge/-EmilioBlacksmith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emilioblacksmith/"></a>
-<a href="https://emilioblacksmith.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://emilioblacksmith.github.io/"></a>
-<a href="https://www.youtube.com/channel/UC1ZeE2i5QwVwhWOV-HveneQ"><img alt="YouTube Channel" src="https://img.shields.io/youtube/channel/subscribers/UC1ZeE2i5QwVwhWOV-HveneQ?style=social"></a>
-<a href="https://www.codewars.com/users/EmilioBlacksmith"><img alt="Code Wars Profile" src="https://www.codewars.com/users/EmilioBlacksmith/badges/small"></a>

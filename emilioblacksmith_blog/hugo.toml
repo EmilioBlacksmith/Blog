@@ -56,15 +56,15 @@ pygmentsStyle = "monokai"
     weight = 2
 
   [[menu.main]]
-    name = "Youtube"
-    pre = "<span data-feather='youtube'></span>"
-    url = "https://www.youtube.com/@EmilioBlacksmith"
-    weight = 3
-
-  [[menu.main]]
     name = "Posts"
     pre = "<span data-feather='book'></span>"
     url = "./posts/"
+    weight = 3
+
+    [[menu.main]]
+    identifier = "youtube"
+    pre = "<span data-feather='youtube'></span>"
+    url = "https://www.youtube.com/@EmilioBlacksmith"
     weight = 4
 
   [[menu.main]]

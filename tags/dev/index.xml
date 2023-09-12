@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DEV on Emilio Blacksmith Blog</title>
+    <link>https://emilioblacksmith.github.io/Blog/tags/dev/</link>
+    <description>Recent content in DEV on Emilio Blacksmith Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 11 Sep 2023 20:57:38 -0600</lastBuildDate><atom:link href="https://emilioblacksmith.github.io/Blog/tags/dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personalizing my Terminal Environment</title>
+      <link>https://emilioblacksmith.github.io/Blog/posts/personalizing-terminals/</link>
+      <pubDate>Mon, 11 Sep 2023 20:57:38 -0600</pubDate>
+      
+      <guid>https://emilioblacksmith.github.io/Blog/posts/personalizing-terminals/</guid>
+      <description>Why did I Personalized my Terminal? Howdy random stranger, welcome to another blog post, in today&amp;rsquo;s topic I&amp;rsquo;m explaining a bit of what I&amp;rsquo;ve been doing this entire weekend, lmao.
+But before I kinda explain a bit about the personalization of my personal terminal, let me explain a bit about how I&amp;rsquo;ve been using the terminal before, and my settings before this whole mess lmao.
+The Process&amp;hellip; Before. I&amp;rsquo;ve been a simple dev, the closest thing of using the terminal it has been more related to that one time last year when I used Linux actively to learn deeper in terms of Web Development.</description>
+    </item>
+    
+  </channel>
+</rss>

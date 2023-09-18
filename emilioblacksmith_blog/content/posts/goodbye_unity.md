@@ -49,3 +49,5 @@ But that would be it, that is my plan moving forward, my intentions for the futu
 I hope that you're exited for the future just like me, and that if you read all of this whole things, thanks for being here, I hope we can be friends, so go ahead and email me, or send me a msg in my socials. Love you.
 
 See you Around, Cowboy! 🤠
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SI-fg_ebsA0?si=S2ILQJ6-JCKOitht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

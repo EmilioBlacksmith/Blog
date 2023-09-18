@@ -12,6 +12,9 @@ enableRobotsTXT = true
 # Choose one of emacs, trac or perldoc
 pygmentsStyle = "monokai"
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [params]
   footer = "EmilioBlacksmith"
   description = "Howdy 🤠, I make development fun to watch (sometimes...)"
@@ -20,7 +23,8 @@ pygmentsStyle = "monokai"
   AvatarAltText = "avatar"
   avatarSize = "size-xl"
   accentColor = "#0080ff"
-  favicon = false
+  favicon = true
+  
   svg = true
   author = "Emilio Blacksmith with Hugo"
   customHeadHTML = """

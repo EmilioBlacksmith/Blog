@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Emilio Blacksmith Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Sep 2023 20:57:38 -0600</lastBuildDate><atom:link href="https://emilioblacksmith.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Sep 2023 17:20:45 -0600</lastBuildDate><atom:link href="https://emilioblacksmith.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World!</title>
       <link>https://emilioblacksmith.github.io/Blog/posts/hello_world/</link>
@@ -14,6 +14,15 @@
       
       <guid>https://emilioblacksmith.github.io/Blog/posts/hello_world/</guid>
       <description>Testing out my first blog post, this website was developed using HUGO.</description>
+    </item>
+    
+    <item>
+      <title>Goodbye Unity Engine</title>
+      <link>https://emilioblacksmith.github.io/Blog/posts/goodbye_unity/</link>
+      <pubDate>Sun, 17 Sep 2023 17:20:45 -0600</pubDate>
+      
+      <guid>https://emilioblacksmith.github.io/Blog/posts/goodbye_unity/</guid>
+      <description>Dear Unity Unity is a game engine that I&amp;rsquo;ve used in the past, and I&amp;rsquo;m willing to say was my dear tool to make most of my ideas a reality in the gamedev world, I created my first videogame with it, and it is allocated in a very special place in my heart, I started using this game engine since 2014, not full time obviously, but it was absolutely a game changer.</description>
     </item>
     
     <item>

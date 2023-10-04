@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Emilio Blacksmith Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 24 Sep 2023 14:35:33 -0600</lastBuildDate><atom:link href="https://emilioblacksmith.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Oct 2023 08:13:51 -0600</lastBuildDate><atom:link href="https://emilioblacksmith.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World!</title>
       <link>https://emilioblacksmith.github.io/Blog/posts/hello_world/</link>
@@ -14,6 +14,16 @@
       
       <guid>https://emilioblacksmith.github.io/Blog/posts/hello_world/</guid>
       <description>Testing out my first blog post, this website was developed using HUGO.</description>
+    </item>
+    
+    <item>
+      <title>The Trick Behind Productivity</title>
+      <link>https://emilioblacksmith.github.io/Blog/posts/the-trick-behind-productivity/</link>
+      <pubDate>Wed, 04 Oct 2023 08:13:51 -0600</pubDate>
+      
+      <guid>https://emilioblacksmith.github.io/Blog/posts/the-trick-behind-productivity/</guid>
+      <description>What is Productivity? You have probably felt the same, you&amp;rsquo;re exploring different youtube videos about the topic of self improvement, productivity and how to use your time efficiently to make more things, get more money, make your own business, etc etc.
+The truth is that the current digital era has taught us that there&amp;rsquo;s a possibility of becoming better, becoming more productive doing X, Y an Z actions. Learn 10 different tips and tricks about how to become more productive.</description>
     </item>
     
     <item>

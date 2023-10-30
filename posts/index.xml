@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Emilio Blacksmith Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Oct 2023 08:13:51 -0600</lastBuildDate><atom:link href="https://emilioblacksmith.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Oct 2023 20:34:02 -0600</lastBuildDate><atom:link href="https://emilioblacksmith.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World!</title>
       <link>https://emilioblacksmith.github.io/Blog/posts/hello_world/</link>
@@ -14,6 +14,15 @@
       
       <guid>https://emilioblacksmith.github.io/Blog/posts/hello_world/</guid>
       <description>Testing out my first blog post, this website was developed using HUGO.</description>
+    </item>
+    
+    <item>
+      <title>Insecurities</title>
+      <link>https://emilioblacksmith.github.io/Blog/posts/insecurities-about-my-projects/</link>
+      <pubDate>Sat, 28 Oct 2023 20:34:02 -0600</pubDate>
+      
+      <guid>https://emilioblacksmith.github.io/Blog/posts/insecurities-about-my-projects/</guid>
+      <description>It happens, even to the best of all of us&amp;hellip; Life is interesting sometimes, it bless you with people, it bless you with time, it bless you with commodity, it bless you with many things to be grateful for. I&amp;rsquo;m grateful I&amp;rsquo;m not going to lie, life is beautiful, but no matter what, there days, just like this, where life makes you think, makes you analyze your relationships, your passions, your projects, your path.</description>
     </item>
     
     <item>

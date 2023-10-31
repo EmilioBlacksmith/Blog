@@ -6,7 +6,25 @@
     <description>Recent content in Tags on Emilio Blacksmith Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 28 Oct 2023 20:34:02 -0600</lastBuildDate><atom:link href="https://emilioblacksmith.github.io/Blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Oct 2023 07:55:01 -0600</lastBuildDate><atom:link href="https://emilioblacksmith.github.io/Blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DEV</title>
+      <link>https://emilioblacksmith.github.io/Blog/tags/dev/</link>
+      <pubDate>Tue, 31 Oct 2023 07:55:01 -0600</pubDate>
+      
+      <guid>https://emilioblacksmith.github.io/Blog/tags/dev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WEBDEV</title>
+      <link>https://emilioblacksmith.github.io/Blog/tags/webdev/</link>
+      <pubDate>Tue, 31 Oct 2023 07:55:01 -0600</pubDate>
+      
+      <guid>https://emilioblacksmith.github.io/Blog/tags/webdev/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>deep</title>
       <link>https://emilioblacksmith.github.io/Blog/tags/deep/</link>
@@ -49,15 +67,6 @@
       <pubDate>Wed, 04 Oct 2023 08:13:51 -0600</pubDate>
       
       <guid>https://emilioblacksmith.github.io/Blog/tags/tips-and-tricks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>DEV</title>
-      <link>https://emilioblacksmith.github.io/Blog/tags/dev/</link>
-      <pubDate>Sun, 17 Sep 2023 17:20:45 -0600</pubDate>
-      
-      <guid>https://emilioblacksmith.github.io/Blog/tags/dev/</guid>
       <description></description>
     </item>
     

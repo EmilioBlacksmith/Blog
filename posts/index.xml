@@ -6,7 +6,7 @@
     <description>Recent content in Posts on Emilio Blacksmith Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 28 Oct 2023 20:34:02 -0600</lastBuildDate><atom:link href="https://emilioblacksmith.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Oct 2023 07:55:01 -0600</lastBuildDate><atom:link href="https://emilioblacksmith.github.io/Blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World!</title>
       <link>https://emilioblacksmith.github.io/Blog/posts/hello_world/</link>
@@ -14,6 +14,15 @@
       
       <guid>https://emilioblacksmith.github.io/Blog/posts/hello_world/</guid>
       <description>Testing out my first blog post, this website was developed using HUGO.</description>
+    </item>
+    
+    <item>
+      <title>From Gamedev to Webdev Roadmap</title>
+      <link>https://emilioblacksmith.github.io/Blog/posts/from-gamedev-to-webdev/</link>
+      <pubDate>Tue, 31 Oct 2023 07:55:01 -0600</pubDate>
+      
+      <guid>https://emilioblacksmith.github.io/Blog/posts/from-gamedev-to-webdev/</guid>
+      <description>Why Am I switching to becoming a Web Developer? I&amp;rsquo;m a game developer, I&amp;rsquo;ve been a game developer ever since 2017, I started in a very early stage, by doing simple projects here and there, by following a ton of tutorials, and since 2021, I started to get more and more interested into becoming a web developer. I&amp;rsquo;ve found joy in developing websites, and tools with this websites. It&amp;rsquo;s a very interesting process.</description>
     </item>
     
     <item>

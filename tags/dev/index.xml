@@ -6,7 +6,16 @@
     <description>Recent content in DEV on Emilio Blacksmith Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 31 Oct 2023 07:55:01 -0600</lastBuildDate><atom:link href="https://emilioblacksmith.github.io/Blog/tags/dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Nov 2023 20:38:12 -0600</lastBuildDate><atom:link href="https://emilioblacksmith.github.io/Blog/tags/dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pausing My Project</title>
+      <link>https://emilioblacksmith.github.io/Blog/posts/pausing-my-project/</link>
+      <pubDate>Mon, 06 Nov 2023 20:38:12 -0600</pubDate>
+      
+      <guid>https://emilioblacksmith.github.io/Blog/posts/pausing-my-project/</guid>
+      <description>I don&amp;rsquo;t know where to start Life is cyclical, sometimes we define different plans, different paths to follow, those can be set by someone else, or can be chosen by ourselves. But we set different plans for ourselves as time flies, and this world keeps us guessing for what&amp;rsquo;s next. Ever since I started this path as a game developer, I set my destiny somewhat high up, in 2020, I decided that I was going to be a gamedev youtuber, I followed that path ever since.</description>
+    </item>
+    
     <item>
       <title>From Gamedev to Webdev Roadmap</title>
       <link>https://emilioblacksmith.github.io/Blog/posts/from-gamedev-to-webdev/</link>

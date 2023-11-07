@@ -6,13 +6,31 @@
     <description>Recent content in Tags on Emilio Blacksmith Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 31 Oct 2023 07:55:01 -0600</lastBuildDate><atom:link href="https://emilioblacksmith.github.io/Blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Nov 2023 20:38:12 -0600</lastBuildDate><atom:link href="https://emilioblacksmith.github.io/Blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DEV</title>
       <link>https://emilioblacksmith.github.io/Blog/tags/dev/</link>
-      <pubDate>Tue, 31 Oct 2023 07:55:01 -0600</pubDate>
+      <pubDate>Mon, 06 Nov 2023 20:38:12 -0600</pubDate>
       
       <guid>https://emilioblacksmith.github.io/Blog/tags/dev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>personal</title>
+      <link>https://emilioblacksmith.github.io/Blog/tags/personal/</link>
+      <pubDate>Mon, 06 Nov 2023 20:38:12 -0600</pubDate>
+      
+      <guid>https://emilioblacksmith.github.io/Blog/tags/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>update</title>
+      <link>https://emilioblacksmith.github.io/Blog/tags/update/</link>
+      <pubDate>Mon, 06 Nov 2023 20:38:12 -0600</pubDate>
+      
+      <guid>https://emilioblacksmith.github.io/Blog/tags/update/</guid>
       <description></description>
     </item>
     
@@ -40,15 +58,6 @@
       <pubDate>Sat, 28 Oct 2023 20:34:02 -0600</pubDate>
       
       <guid>https://emilioblacksmith.github.io/Blog/tags/journal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>personal</title>
-      <link>https://emilioblacksmith.github.io/Blog/tags/personal/</link>
-      <pubDate>Sat, 28 Oct 2023 20:34:02 -0600</pubDate>
-      
-      <guid>https://emilioblacksmith.github.io/Blog/tags/personal/</guid>
       <description></description>
     </item>
     
